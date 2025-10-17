@@ -1,5 +1,27 @@
 ## OCTUBRE
 
+### 17/10/2025
+#### Nelson Gabriel Condori Argollo 2-DAM
+# Semana 4 ¿vivimos solos?
+
+### Resumen de la clase
+Hablamos sobre cómo no vivimos solos, sino que compartimos el entorno con muchas especies y personas. Se explicó cómo nuestras acciones se cruzan con las de otros seres vivos y cómo eso influye en nuestro comportamiento y en el ecosistema.
+
+### Ejemplos
+
+Se comentaron distintos tipos de relaciones entre seres vivos (cooperación, competencia, mutualismo, parasitismo, depredación). También se habló del ejemplo de la trufa negra en Sarrión como una forma en que los humanos aprovechan relaciones naturales para generar beneficios.
+
+#### ¿que hacemos nosotros: cooperamos o competimos?
+Creo que como humanos hacemos ambas cosas. Competimos por recursos, oportunidades o ventajas, pero también cooperamos para lograr objetivos que solos no podríamos alcanzar. La cooperación nos permite avanzar más lejos.
+
+### Reflexión personal
+Me pareció interesante cómo muchas veces tenemos que adaptarnos a lo que nos rodea, incluso sin darnos cuenta. También me hizo pensar que, como humanos, a veces competimos, pero también cooperamos para lograr objetivos comunes.
+
+
+
+
+## OCTUBRE
+
 ### 10/10/2025
 #### Nelson Gabriel Condori Argollo 2-DAM
 # Semana 3 Capacidad de carga
