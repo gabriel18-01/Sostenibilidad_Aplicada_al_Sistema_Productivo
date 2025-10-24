@@ -1,3 +1,25 @@
+# OCTUBRE
+
+### 24/10/2025
+#### Nelson Gabriel Condori Argollo 2-DAM
+# Semana 5 - Estrategias de crecimiento r y k
+
+
+
+### Resumen de la clase
+Aprendimos sobre las estrategias de reproducción R y K que siguen los seres vivos. La R se basa en tener muchos descendientes y poca inversión en su cuidado (como los peces o insectos), mientras que la K implica tener pocos hijos, pero dedicarles más tiempo y protección (como los elefantes o los humanos).
+
+
+#### ¿Que estrategias utilizamos los humanos?
+ En la actualidad usamos principalmente la estrategia k pero con matices.
+ ya que en la historia ciertas civilizaviones utilizaron ambas estrategias unas veces mas k y otras la r.
+
+### Reflexión personal
+Me pareció interesante pensar que incluso los seres humanos seguimos patrones parecidos a los de otras especies. Entendí que la vida busca mantenerse, y que la muerte y los cambios son necesarios para la evolución.
+
+
+
+
 ## OCTUBRE
 
 ### 17/10/2025
