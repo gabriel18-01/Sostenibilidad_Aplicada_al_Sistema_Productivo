@@ -1,10 +1,30 @@
 # OCTUBRE
 
+### 31/10/2025
+#### Nelson Gabriel Condori Argollo 2-DAM
+# Semana 6 - La tierra es un sistema finito
+
+### Resumen de la clase
+Vimos que la Tierra es un sistema finito, que los recursos no son ilimitados y, si consumimos más de lo que se regenera, acabamos teniendo problemas. Repasamos la idea de capacidad de carga, el ciclo de materiales como el carbono y el agua, y el concepto de sostenibilidad aplicado a la vida real (ejemplo: acuíferos que se agotan si extraemos más agua de la que entra).
+
+También hablamos de las tres dimensiones de la sostenibilidad: ambiental, social y económica, y cómo están conectadas.
+
+### Ejemplos
+- El agua subterránea en zonas agrícolas: si se extrae más de lo que entra, el nivel baja y cada vez cuesta más obtenerla.
+- Ciclo del carbono: lo que forma parte de los seres vivos vuelve al entorno y se reutiliza.
+- Relación entre recursos y economía: si falta agua para cultivos, cae la producción, afecta al trabajo y a la sociedad.
+
+
+### Reflexión personal
+Me quedó claro que sostenibilidad no es solo “cuidar el planeta”, sino entender que dependemos de recursos finitos y que si los agotamos, nuestra propia calidad de vida se veria afectada. La idea de las tres dimensiones me ayudó a ver que la sostenibilidad no es un tema solo ecológico, también afecta a la economía y a las personas.
+
+
+
+# OCTUBRE
+
 ### 24/10/2025
 #### Nelson Gabriel Condori Argollo 2-DAM
 # Semana 5 - Estrategias de crecimiento r y k
-
-
 
 ### Resumen de la clase
 Aprendimos sobre las estrategias de reproducción R y K que siguen los seres vivos. La R se basa en tener muchos descendientes y poca inversión en su cuidado (como los peces o insectos), mientras que la K implica tener pocos hijos, pero dedicarles más tiempo y protección (como los elefantes o los humanos).
