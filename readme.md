@@ -1,3 +1,57 @@
+# NOVIEMBRE
+
+### 14/11/2025
+#### Nelson Gabriel Condori Argollo 2-DAM
+# Semana 7 - Análisis del ciclo de vida
+
+![alt text](image-1.png)
+
+### Resumen de la clase
+Vimos qué el ACV es una metodología para estudiar todo lo que necesita un producto desde que se extraen los materiales hasta que deja de usarse.
+Repasamos que, a diferencia de otros seres vivos, los humanos fabricamos herramientas y productos, y cada uno de ellos requiere materiales, energía y procesos que vienen del planeta.
+También analizamos cómo el ACV ayuda a comparar productos entre sí y a tomar decisiones más sostenibles.
+
+### Ejemplos
+- Un bolígrafo: de dónde salen los plásticos, metales y tintas, y cómo se procesan.
+- El teléfono móvil: cuánto material se extrae, cómo se transforma en componentes y cuánta energía se consume.
+- Diferencia entre ciclos naturales y ciclos industriales, que no se regeneran solos y requieren extracción constante.
+
+### Reflexión personal
+Me pareció interesante ver que incluso objetos pequeños necesitan enormes cantidades de materiales y procesos. No solemos pensar en ello, pero después de esta clase entiendo mejor por qué es importante reutilizar, reciclar y diseñar productos con menos impacto.
+También creo que el ACV es una manera clara de visualizar si algo es sostenible o no.
+
+
+## Actividad en clase: Análisis del Ciclo de Vida (ej. Móvil)
+
+### 1. Extracción de materias primas
+Se obtienen metales y minerales como litio, cobalto, oro, cobre y plástico.  
+**Impactos:** contaminación del suelo y agua, alto consumo energético, explotación laboral y agotamiento de recursos.
+
+### 2. Fabricación y ensamblaje
+En fábricas se producen la pantalla, batería, procesador y carcasa.  
+**Impactos:** es la etapa más contaminante; altas emisiones de CO₂, uso intensivo de energía, productos químicos y agua.
+
+### 3. Transporte y distribución
+El móvil se envía desde Asia a diferentes países usando barco, avión y camiones.  
+**Impactos:** emisiones por transporte y uso de embalajes.
+
+### 4. Uso del dispositivo
+Incluye la carga del móvil y el funcionamiento de redes y servicios digitales.  
+**Impactos:** bajo consumo eléctrico, desgaste de batería y uso indirecto de energía en servidores y redes.
+
+### 5. Fin de vida (residuos electrónicos)
+Cuando se desecha, se convierte en e-waste.  
+**Impactos:** contiene sustancias tóxicas; si no se recicla correctamente, contamina suelo y agua.  
+**Recuperable:** metales valiosos (oro, cobre), plásticos y baterías.
+
+### Conclusión
+La etapa más contaminante es la **fabricación**, seguida de la **extracción**.  
+El uso genera impacto menor.  
+Reciclar, reparar y alargar la vida del móvil son las acciones más sostenibles.
+
+
+
+
 # OCTUBRE
 
 ### 31/10/2025
