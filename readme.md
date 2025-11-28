@@ -1,5 +1,33 @@
 # NOVIEMBRE
 
+### 28/11/2025
+#### Nelson Gabriel Condori Argollo 2-DAM
+# Semana 8 - Economía Lineal vs. Circular
+
+![alt text](image-2.png)
+
+### Resumen de la clase
+Hoy hemos visto la diferencia entre la economía lineal y la economía circular. La economía lineal sigue el modelo tradicional: extraer, producir, usar, tirar. Es un flujo unidireccional de recursos y residuos
+En cambio, la economía circular busca que los materiales vuelvan al sistema: reutilizar, reparar, rediseñar y reciclar.
+También hablamos sobre cómo algunos residuos tienen un valor evidente (como el cobre o el hierro), mientras que otros no parecen valiosos pero igualmente generan problemas si no se gestionan (por ejemplo, emisiones, olores, envases o desechos orgánicos).  
+
+
+### Ejemplos
+- **Chatarra de coches:** tiene valor directo, por eso históricamente se ha reciclado siempre. El chatarrero la separa, la fundición la transforma, y parte del material vuelve a fabricar coches.
+- **Espadas medievales:** cuando una espada se rompía, se fundía para recuperar el hierro. No era por sostenibilidad, sino porque el material tenía mucho valor.
+- **Pescado en bandejas del mercadona:** muestra cómo muchas veces el consumidor NO puede elegir una opción más sostenible porque el sistema (la empresa) no lo ofrece.
+- **Ferraris:** si un producto deja de fabricarse, aunque quieras no puedes comprarlo. eso muestra que muchas decisiones son colectivas, no individuales.
+
+### Reflexión personal
+La clase me hizo pensar en cómo muchas de nuestras decisiones diarias realmente están limitadas por lo que el mercado ofrece. No solo es responsabilidad del consumidor, sino también de empresas y gobiernos. Aun así, entiendo que es importante ser conscientes de nuestras elecciones, porque entre dos opciones, la más circular siempre será mejor para reducir residuos y usar menos recursos del planeta.
+
+## Pregunta: ¿Y a mí que me cuentas? ¿Enfoque colectivo o individual?
+Después de escuchar la explicación, creo que la circularidad necesita un **enfoque colectivo**. Las decisiones importantes "como los materiales de un coche, el diseño de un móvil, o cómo se envasa el pescado" no las toma el consumidor, sino las empresas y las políticas públicas. individualmente podemos elegir lo más sostenible disponible, pero si el sistema no ofrece alternativas, nuestras opciones son limitadas.
+
+
+
+# NOVIEMBRE
+
 ### 14/11/2025
 #### Nelson Gabriel Condori Argollo 2-DAM
 # Semana 7 - Análisis del ciclo de vida
