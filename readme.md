@@ -1,5 +1,31 @@
 # NOVIEMBRE
 
+### 05/12/2025
+#### Nelson Gabriel Condori Argollo 2-DAM
+# Semana 9 - Huella ecológica y huella de carbono
+
+![alt text](image.png)
+
+### Resumen de la clase
+En esta clase vimos qué es la **huella ecológica** y la **huella de carbono**. La huella ecológica muestra si estamos usando más recursos de los que la Tierra puede regenerar. El profesor dijo que actualmente necesitaríamos “más de un planeta” para mantener nuestro ritmo de consumo.
+
+La huella de carbono se centra en el CO₂ que emitimos. Aunque la naturaleza emite más CO₂ que nosotros, el problema es que **lo estamos aumentando muy rápido**, y eso genera el cambio climático.
+
+También habló de que desde los años 50 la producción y el consumo se han disparado, y que podemos tomar decisiones para reducir el impacto, como ser más eficientes, usar menos recursos o incluso compensar emisiones plantando árboles (aunque a veces no funciona tan bien como parece).
+
+### Ejemplos
+- Plantaciones de árboles para compensar CO₂, pero muchas no sobreviven.  
+- El modo oscuro o programas más eficientes para gastar menos energía.  
+- La idea de que hoy gastaríamos como si tuviéramos **1,7 planetas**.
+
+### Reflexión personal
+Esta clase me hizo ver que la huella ecológica y la de carbono sirven para saber si vamos “bien o mal” con el uso de recursos. Me llamó la atención que no buscan precisión total, solo ayudarnos a comparar. También entendí que el problema no es solo cuánto emitimos, sino lo rápido que está cambiando todo. Creo que como futuros programadores podemos aportar un poco haciendo software más eficiente y siendo conscientes del consumo energético.
+
+
+
+
+# NOVIEMBRE
+
 ### 28/11/2025
 #### Nelson Gabriel Condori Argollo 2-DAM
 # Semana 8 - Economía Lineal vs. Circular
