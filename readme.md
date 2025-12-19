@@ -1,3 +1,27 @@
+# DICIEMBRE 
+
+### 12/12/2025 (fuera de plazo)
+#### Nelson Gabriel Condori Argollo 2-DAM
+# Semana 10 - Cambio Climático
+
+![alt text](image-3.png)
+
+### Resumen de la clase
+En esta clase se habló del cambio climático y de cómo actúa como un multiplicador de amenazas. Se comentó que muchas actividades humanas influyen en este problema y que una de las principales causas es la emisión de CO₂.
+
+### Preguntas
+**¿Cuál es el principal emisor de CO₂?**  
+La quema de productos fósiles.
+
+**¿Qué puedo hacer yo como programador para mitigar el cambio climático?**  
+Hacer el código más eficiente, reduciendo el consumo eléctrico.
+
+### Reflexión personal
+En mi opinión, el cambio climático es un problema importante que requiere la implicación de todos. Como programador, creo que optimizar el código y evitar procesos innecesarios puede ayudar a reducir el impacto ambiental, aunque sea en pequeña escala.
+
+
+
+
 # NOVIEMBRE
 
 ### 05/12/2025
